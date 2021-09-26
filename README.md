@@ -1,10 +1,18 @@
 # This is my DIgital It Firm web project with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was react with [Digital It Firm](https://digital-it-firm-react-project.netlify.app/).
 
-## Available Scripts
+## Project Details
 
-In the project directory, you can run:
+This is my first react project. Its a It firm firm team member info project.
+
+## How i can done this
+First time it was very hard for me . cz I'm beginner.
+Then I can devided smal section by section. Its totaly handed coded api.
+
+## My exprience
+My exrience was good..and I can take challange every time for learning react.
+Overall exprience good.
 
 ### `npm start`
 
