@@ -1,0 +1,22 @@
+.content{
+    background-color: #2a6f74e0;
+    margin: 0px 20px 0px 20px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 0px 0px 20px 20px;
+}
+.content h2{
+    color: #ff5e00;
+    font-size: 48px;
+    font-weight: bold;
+}
+.content p{
+    width: 60%;
+    margin: auto;
+    color: #fff;
+}
+.content h3{
+    color: #fff;
+    font-size: 36px;
+}

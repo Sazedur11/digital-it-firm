@@ -1,0 +1,18 @@
+.team-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.team-member h2{
+    margin-left: 20px;
+    padding-top: 10px;
+    color: #fff;
+}
+.team-member-info{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-right: 5px;
+    border-right: 2px solid #685b5b7d;
+    column-gap: 20px;
+}

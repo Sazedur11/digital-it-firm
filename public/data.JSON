@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Sazedur",
+        "age": 25,
+        "profession": "Web Developer",
+        "country": "Bangladesh",
+        "salary": 2000,
+        "img": "http://www.sarb.co.in/images/6.jpg"
+    },
+    {
+        "name": "Tim David",
+        "age": 31,
+        "profession": "HR",
+        "country": "USA",
+        "salary": 2200,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHibIe4cZzr__jX69NIoo5uIygxSUylfmPZ_Db5PCU2YMLSltq_R0yMBMYa9IjARK6L-w&usqp=CAU"
+    },
+    {
+        "name": "Jaxon",
+        "age": 26,
+        "profession": "UX Designer",
+        "country": "UK",
+        "salary": 3000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ruMQInU6x-AXR8f7nB8u6sqNHFOYdX8YVg9vK3DUEiolnt0daIupAQmdMWBOf8MnDo0&usqp=CAU"
+    },
+    {
+        "name": "Theodore",
+        "age": 36,
+        "profession": "js expert",
+        "country": "UK",
+        "salary": 3600,
+        "img": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/266749_2200-732x549.jpg"
+    },
+    {
+        "name": "Matthew Wade",
+        "age": 29,
+        "profession": "Manager",
+        "country": "UK",
+        "salary": 1800,
+        "img": "https://media.istockphoto.com/photos/portrait-concept-picture-id1016761216?k=20&m=1016761216&s=612x612&w=0&h=jEC8voGLjSyhdOO7EMQyrLtZ9m--TEUmd4X56sqyZk0="
+    },
+    {
+        "name": "Anthony",
+        "age": 41,
+        "profession": "web developer",
+        "country": "UK",
+        "salary": 2700,
+        "img": "http://img-cdn.tid.al/o/5760cb1a2cd857464ed1ac7268425c9a405f69c7.jpg"
+    },
+    {
+        "name": "Adrian",
+        "age": 27,
+        "profession": "React dev",
+        "country": "UK",
+        "salary": 3100,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3NOrekOay4PcUmUBW1aU6bEdcZjaQPct3IHjgv7tNBRyCMiBTiWDRH9UlsCxoV9rP8o&usqp=CAU"
+    },
+    {
+        "name": "Cameron",
+        "age": 35,
+        "profession": "node",
+        "country": "UK",
+        "salary": 2650,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWK_Xm1V5MGAJ_v3PFTkxZ2ARjDSgrww-0dRqJoJevfF1Eo_E3JCgkbHro_X7FGc3NDc&usqp=CAU"
+    },
+    {
+        "name": "Leonardo",
+        "age": 29,
+        "profession": "SEO",
+        "country": "UK",
+        "salary": 3200,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcVNytWIXP1isA7u9rfsegJb4pzdUY_jEcw&usqp=CAU"
+    },
+    {
+        "name": "Kayden",
+        "age": 34,
+        "profession": "director",
+        "country": "UK",
+        "salary": 3250,
+        "img": "https://media.istockphoto.com/photos/giving-business-my-undivided-attention-picture-id638979258?k=20&m=638979258&s=612x612&w=0&h=5213q8IocLOcTH5-vvmWbqFXGJ2DJnUzfeOFIKi5YN8="
+    },
+    {
+        "name": "Weston",
+        "age": 24,
+        "profession": "js expert",
+        "country": "UK",
+        "salary": 2510,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDytxZUHrcxWnVBX9a8QPZ61xG967yOqONMtozb0tn0MS9HeTBJOVTm94zJo9pm7D2QE&usqp=CAU"
+    },
+    {
+        "name": "Sawyer",
+        "age": 33,
+        "profession": "Marketing",
+        "country": "UK",
+        "salary": 2100,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb113Kmm4QkEgRCEE2mym5V6mqnJh0r0F-1jasihakOCq7vcVsaFocIFTm3giI6dSJZ7A&usqp=CAU"
+    }
+]

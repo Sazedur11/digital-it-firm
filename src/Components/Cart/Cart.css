@@ -1,0 +1,15 @@
+.cart{
+    color: #fff;
+}
+.cart h2{
+    color: #fff;
+    padding-top: 10px;
+}
+.cart-info{
+    background-color: #24656d;
+    margin-right: 20px;
+    margin-top: 158px;
+    padding: 10px;
+    border-radius: 5px;
+    padding-bottom: 30px;
+}
